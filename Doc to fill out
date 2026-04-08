@@ -1,13 +1,17 @@
 Provide an overview of the general topic or question of interest (e.g., "what is meant by 'homelessness' and why is it a particular problem in Seattle?").
 
 potential ideas
-- news bias
-- ai problems
-- other
+
+news related:
+We are considering making something to assist people in regards to reading the news. Often, news is sporadic and unrelated, and multiple sources have different biases, and as such they are causing people to become polarized because they read very different news stories. Our project is going to attempt to address this by creating a reccomended readings (similar to book sites such as goodreads or reccomendations for shows) based on news articles people have read. This way, they can focus on one topic and become more well learned. For example, if someone is reading something on the current news in Iran it will reccomend older articles that give background context such as the lead up to the conflict, why there is friction between the countries, and other articles showing different stuff left out of the article. 
 
 
 Identify an information technology problem in that space (e.g., "what information problems related to homelessness are unaddressed?").
+will update later
+
 
 
 
 Identify at least 1 previous or existing attempt to solve this problem (e.g., "what other web apps attempt to address homelessness? What has already been tried?")
+
+Another service that has attempted something similar is groundnews, which is a popular service which tries to show people political bias and blind spots. This partially helps its users with bias, but it fails to give them the ability to do in depth follow up of specific stories. 
